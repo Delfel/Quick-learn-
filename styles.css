@@ -1,0 +1,32 @@
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background: #fff;
+    color: #000;
+}
+
+header {
+    background: #000;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+input {
+    width: 90%;
+    margin: 1rem auto;
+    display: block;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.hustle-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem;
+    background: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
